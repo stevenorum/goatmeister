@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Feb 27, 2016",
+  "id": "38030",
+  "name": "2016 Chena River to Ridge Endurance Race 45 Mile Run",
+  "results": [
+    {
+      "age": 53,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Teri",
+      "formattime": "10:12:23",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Buck",
+      "participant_id": 238065,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 92.16,
+      "state": "",
+      "status": 1,
+      "time": "36743000"
+    }
+  ]
+}

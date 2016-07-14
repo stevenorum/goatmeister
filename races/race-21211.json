@@ -1,0 +1,29 @@
+{
+  "date": "Sunday, Apr 21, 2013",
+  "id": "21211",
+  "name": "2013 Palouse 100K Relay & Solo 100K",
+  "results": [
+    {
+      "age": 56,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Dave",
+      "formattime": "12:54:47",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Dutton",
+      "participant_id": 2982,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 70.58,
+      "state": "",
+      "status": 1,
+      "time": "46487000"
+    }
+  ]
+}

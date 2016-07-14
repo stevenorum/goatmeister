@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Dec 17, 2011",
+  "id": "18919",
+  "name": "2011 Taklang Damulag 100 100 Miler",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Benedick",
+      "formattime": "31:11:26",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Balaba",
+      "participant_id": 353937,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 98.38,
+      "state": "",
+      "status": 1,
+      "time": "112286000"
+    }
+  ]
+}

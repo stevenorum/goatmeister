@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, May 9, 2015 @ 6:00 AM",
+  "id": "31880",
+  "name": "2015 Run for the Braggin' Rights 50 Miler",
+  "results": [
+    {
+      "age": 40,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "Calgary",
+      "drilldown": 0,
+      "firstname": "Philippe",
+      "formattime": "13:51:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Lagace",
+      "participant_id": 928615,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 100.0,
+      "state": "AB",
+      "status": 1,
+      "time": "49860000"
+    },
+    {
+      "age": 44,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "Lethbridge",
+      "drilldown": 0,
+      "firstname": "Sherry",
+      "formattime": "16:55:00",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Hazelaar",
+      "participant_id": 928616,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 100.0,
+      "state": "AB",
+      "status": 1,
+      "time": "60900000"
+    }
+  ]
+}

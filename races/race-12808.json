@@ -1,0 +1,51 @@
+{
+  "date": "December 29 - January 1, 1996",
+  "id": "12808",
+  "name": "1995 Across the Years 72hrs",
+  "results": [
+    {
+      "age": 55,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Judy",
+      "formattime": "193.37",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Overholtzer",
+      "participant_id": 5244,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 80.59,
+      "state": "",
+      "status": 1,
+      "time": "193.37"
+    },
+    {
+      "age": 61,
+      "age_rank": 0,
+      "agegroup": "60-69",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Harold",
+      "formattime": "131.73",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Sieglaff",
+      "participant_id": 301833,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 52.3,
+      "state": "",
+      "status": 1,
+      "time": "131.73"
+    }
+  ]
+}

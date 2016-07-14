@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Dec 17, 2011",
+  "id": "16918",
+  "name": "2011 Desert Solstice 100 Miler",
+  "results": [
+    {
+      "age": 32,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "New York",
+      "drilldown": 0,
+      "firstname": "Michael",
+      "formattime": "13:46:18",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Arnstein",
+      "participant_id": 15948,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 86.24,
+      "state": "NY",
+      "status": 1,
+      "time": "49578000"
+    },
+    {
+      "age": 51,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "Salt Lake City",
+      "drilldown": 0,
+      "firstname": "Jay",
+      "formattime": "13:52:29",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Aldous",
+      "participant_id": 22559,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 89.41,
+      "state": "UT",
+      "status": 1,
+      "time": "49949000"
+    }
+  ]
+}

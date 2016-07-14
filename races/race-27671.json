@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Apr 26, 2014",
+  "id": "27671",
+  "name": "2014 Snake River Island Hop 100K",
+  "results": [
+    {
+      "age": 39,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "80",
+      "city": "West Richland",
+      "drilldown": 0,
+      "firstname": "Hope",
+      "formattime": "10:59:00",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Fox",
+      "participant_id": 45480,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 84.06,
+      "state": "WA",
+      "status": 1,
+      "time": "39540000"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Nov 13, 2004",
+  "id": "15872",
+  "name": "2004 Monster Mine Run 50K",
+  "results": [
+    {
+      "age": 53,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Bob",
+      "formattime": "9:42:16",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Klapthor",
+      "participant_id": 12611,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 54.97,
+      "state": "NM",
+      "status": 1,
+      "time": "34936000"
+    }
+  ]
+}

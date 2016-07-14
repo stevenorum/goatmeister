@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, May 26, 2012",
+  "id": "16627",
+  "name": "2012 Ride the Wind Trail Races 100 Miler",
+  "results": [
+    {
+      "age": 22,
+      "age_rank": 0,
+      "agegroup": "20-29",
+      "bib": "",
+      "city": "Peoria",
+      "drilldown": 0,
+      "firstname": "Eric",
+      "formattime": "27:53:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Roberts",
+      "participant_id": 228735,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 79.17,
+      "state": "AZ",
+      "status": 1,
+      "time": "100380000"
+    }
+  ]
+}

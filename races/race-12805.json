@@ -1,0 +1,51 @@
+{
+  "date": "December 29 - January 1, 1995",
+  "id": "12805",
+  "name": "1994 Across the Years 48hrs",
+  "results": [
+    {
+      "age": 32,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Thomas",
+      "formattime": "152.6",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Possert",
+      "participant_id": 301831,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 88.8,
+      "state": "",
+      "status": 1,
+      "time": "152.6"
+    },
+    {
+      "age": 44,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Carey",
+      "formattime": "82.76",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Stoneking",
+      "participant_id": 32556,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 59.06,
+      "state": "",
+      "status": 1,
+      "time": "82.76"
+    }
+  ]
+}

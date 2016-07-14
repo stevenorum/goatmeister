@@ -1,0 +1,29 @@
+{
+  "date": "December 31 - January 1, 1984",
+  "id": "12782",
+  "name": "1983 Across the Years 6hrs",
+  "results": [
+    {
+      "age": 50,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Joe",
+      "formattime": "30.32",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Reif",
+      "participant_id": 303288,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 100.0,
+      "state": "",
+      "status": 1,
+      "time": "30.32"
+    }
+  ]
+}

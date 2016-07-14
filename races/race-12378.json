@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Apr 2, 2005",
+  "id": "12378",
+  "name": "2005 The Barkley Marathons 40 Miler",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Todd",
+      "formattime": "24:04:53",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Holmes",
+      "participant_id": 3522,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 81.34,
+      "state": "CO",
+      "status": 1,
+      "time": "86693000"
+    },
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Michael",
+      "formattime": "24:32:23",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Bur",
+      "participant_id": 97127,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 71.27,
+      "state": "MD",
+      "status": 1,
+      "time": "88343000"
+    }
+  ]
+}

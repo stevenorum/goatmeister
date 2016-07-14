@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Sep 19, 2009",
+  "id": "6245",
+  "name": "2009 Bohemian Alps 50 Miler",
+  "results": [
+    {
+      "age": 49,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Kim",
+      "formattime": "13:24:06",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Lindgren",
+      "participant_id": 33220,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 89.6,
+      "state": "NE",
+      "status": 1,
+      "time": "48246000"
+    }
+  ]
+}

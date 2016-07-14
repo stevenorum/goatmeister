@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Apr 3, 2004",
+  "id": "8317",
+  "name": "2004 The Barkley Marathons 100 Miler",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Michael",
+      "formattime": "57:25:18",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Tilden",
+      "participant_id": 3275,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 82.94,
+      "state": "",
+      "status": 1,
+      "time": "206718000"
+    },
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Jim",
+      "formattime": "57:28:25",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Nelson",
+      "participant_id": 2567,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 85.26,
+      "state": "",
+      "status": 1,
+      "time": "206905000"
+    }
+  ]
+}

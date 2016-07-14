@@ -1,0 +1,51 @@
+{
+  "date": "Friday, Aug 7, 1998",
+  "id": "14327",
+  "name": "1998 24 Hour Around the Lake Marathon",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Steve",
+      "formattime": "5:03:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Pepe",
+      "participant_id": 271970,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 54.34,
+      "state": "",
+      "status": 1,
+      "time": "18180000"
+    },
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Dick",
+      "formattime": "7:39:23",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Duffy",
+      "participant_id": 308312,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 65.96,
+      "state": "",
+      "status": 1,
+      "time": "27563000"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Apr 2, 2016",
+  "id": "38469",
+  "name": "2016 The Barkley Marathons 100 Miler",
+  "results": [
+    {
+      "age": 36,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "Salt Lake City",
+      "drilldown": 0,
+      "firstname": "Jared",
+      "formattime": "59:30:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Campbell",
+      "participant_id": 3521,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 85.53,
+      "state": "Ut",
+      "status": 1,
+      "time": "214200000"
+    }
+  ]
+}

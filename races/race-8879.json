@@ -1,0 +1,29 @@
+{
+  "date": "Monday, Dec 1, 2008",
+  "id": "8879",
+  "name": "2008 Antarctic Ice Marathon 1/2 Marathon",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Frank",
+      "formattime": "3:45:18",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Staples",
+      "participant_id": 129763,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 100.0,
+      "state": "",
+      "status": 1,
+      "time": "13518000"
+    }
+  ]
+}

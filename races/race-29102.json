@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Jul 18, 2015",
+  "id": "29102",
+  "name": "2015 Cremator Ultra Triple",
+  "results": [
+    {
+      "age": 29,
+      "age_rank": 0,
+      "agegroup": "20-29",
+      "bib": "13",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Andrew",
+      "formattime": "28:55:27",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Snope",
+      "participant_id": 701962,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 90.96,
+      "state": "",
+      "status": 1,
+      "time": "104127000"
+    },
+    {
+      "age": 39,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "14",
+      "city": "Stuarts Draft",
+      "drilldown": 0,
+      "firstname": "Marc",
+      "formattime": "33:15:33",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Griffin",
+      "participant_id": 9415,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 73.31,
+      "state": "VA",
+      "status": 1,
+      "time": "119733000"
+    }
+  ]
+}

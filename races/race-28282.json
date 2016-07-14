@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Oct 11, 2014",
+  "id": "28282",
+  "name": "2014 Euchre Bar Massacre 50 Miler",
+  "results": [
+    {
+      "age": 37,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "Belmont",
+      "drilldown": 0,
+      "firstname": "Toshikazu",
+      "formattime": "25:11:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Hosaka",
+      "participant_id": 17182,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 86.57,
+      "state": "CA",
+      "status": 1,
+      "time": "90660000"
+    }
+  ]
+}

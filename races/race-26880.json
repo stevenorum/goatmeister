@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Jan 15, 2011",
+  "id": "26880",
+  "name": "2011 Pullman Winter Ultras - Jan 50K",
+  "results": [
+    {
+      "age": 33,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Kjell",
+      "formattime": "3:46:09",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Schioberg",
+      "participant_id": 175002,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 98.33,
+      "state": "",
+      "status": 1,
+      "time": "13569000"
+    },
+    {
+      "age": 33,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Scott",
+      "formattime": "4:17:08",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "McMurtrey",
+      "participant_id": 9098,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 80.89,
+      "state": "",
+      "status": 1,
+      "time": "15428000"
+    }
+  ]
+}

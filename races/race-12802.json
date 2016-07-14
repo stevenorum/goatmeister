@@ -1,0 +1,51 @@
+{
+  "date": "December 29 - January 1, 1994",
+  "id": "12802",
+  "name": "1993 Across the Years 48hrs",
+  "results": [
+    {
+      "age": 52,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Robert",
+      "formattime": "120.04",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Audretsch",
+      "participant_id": 302441,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 63.73,
+      "state": "",
+      "status": 1,
+      "time": "120.04"
+    },
+    {
+      "age": 67,
+      "age_rank": 0,
+      "agegroup": "60-69",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Method",
+      "formattime": "101.65",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Istvanik",
+      "participant_id": 302470,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 79.49,
+      "state": "",
+      "status": 1,
+      "time": "101.65"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Dec 14, 1985",
+  "id": "15114",
+  "name": "1985 Tallahassee Ultradistance Classic 100 Miler",
+  "results": [
+    {
+      "age": 30,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Ray",
+      "formattime": "14:57:26",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Krolewicz",
+      "participant_id": 132248,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 67.5,
+      "state": "",
+      "status": 1,
+      "time": "53846000"
+    },
+    {
+      "age": 49,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Sandra",
+      "formattime": "15:12:54",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Kiddy",
+      "participant_id": 55890,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 95.1,
+      "state": "",
+      "status": 1,
+      "time": "54774000"
+    }
+  ]
+}

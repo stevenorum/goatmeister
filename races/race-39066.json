@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Feb 23, 2002",
+  "id": "39066",
+  "name": "2002 The Wild Oak Trail 100 Mile 100 Miler",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Dennis",
+      "formattime": "34:02:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Herr",
+      "participant_id": 42336,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 83.86,
+      "state": "",
+      "status": 1,
+      "time": "122520000"
+    }
+  ]
+}

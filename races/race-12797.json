@@ -1,0 +1,51 @@
+{
+  "date": "December 29 - January 1, 1992",
+  "id": "12797",
+  "name": "1991 Across the Years 48hrs",
+  "results": [
+    {
+      "age": 65,
+      "age_rank": 0,
+      "agegroup": "60-69",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Ralph",
+      "formattime": "90.22",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Coffey",
+      "participant_id": 274064,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 52.98,
+      "state": "",
+      "status": 1,
+      "time": "90.22"
+    },
+    {
+      "age": 48,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Peter",
+      "formattime": "62.137",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Munding",
+      "participant_id": 303253,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 68.87,
+      "state": "",
+      "status": 1,
+      "time": "62.137"
+    }
+  ]
+}

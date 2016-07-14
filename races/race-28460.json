@@ -1,0 +1,29 @@
+{
+  "date": "Friday, Sep 19, 2014",
+  "id": "28460",
+  "name": "2014 SRT Run/Hike 74 Miler",
+  "results": [
+    {
+      "age": 31,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "6",
+      "city": "Carteret",
+      "drilldown": 0,
+      "firstname": "George",
+      "formattime": "30:23:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Grzyb",
+      "participant_id": 769090,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 77.65,
+      "state": "NJ",
+      "status": 1,
+      "time": "109380000"
+    }
+  ]
+}

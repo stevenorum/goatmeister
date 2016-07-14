@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Apr 2, 2011",
+  "id": "13043",
+  "name": "2011 The Barkley Marathons 100 Miler",
+  "results": [
+    {
+      "age": 31,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Brett",
+      "formattime": "57:13:33",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Maune",
+      "participant_id": 43944,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 87.66,
+      "state": "CA",
+      "status": 1,
+      "time": "206013000"
+    }
+  ]
+}

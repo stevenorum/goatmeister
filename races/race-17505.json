@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Jul 7, 2012",
+  "id": "17505",
+  "name": "2012 Happy Jack Endurance Races 100 Miler",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "Denver",
+      "drilldown": 0,
+      "firstname": "Jeremy",
+      "formattime": "21:11:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Bradford",
+      "participant_id": 30348,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 82.33,
+      "state": "CO",
+      "status": 1,
+      "time": "76260000"
+    },
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "Parker",
+      "drilldown": 0,
+      "firstname": "Christopher",
+      "formattime": "25:13:00",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Westerman",
+      "participant_id": 434013,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 73.69,
+      "state": "CO",
+      "status": 1,
+      "time": "90780000"
+    }
+  ]
+}

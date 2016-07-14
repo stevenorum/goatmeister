@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Jun 18, 2016",
+  "id": "39689",
+  "name": "2016 Angry Bull Sizzling Six Shooter 100K",
+  "results": [
+    {
+      "age": 44,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "109",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "George",
+      "formattime": "10:24:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Myers",
+      "participant_id": 199703,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 88.74,
+      "state": "",
+      "status": 1,
+      "time": "37440000"
+    }
+  ]
+}

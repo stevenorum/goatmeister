@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Jul 31, 1976",
+  "id": "6708",
+  "name": "1976 Western States 100 Miler",
+  "results": [
+    {
+      "age": 32,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Cowman",
+      "formattime": "24:30:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "A-Moo-Ha'S",
+      "participant_id": 49764,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 65.71,
+      "state": "",
+      "status": 1,
+      "time": "88200000"
+    }
+  ]
+}

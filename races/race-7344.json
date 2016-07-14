@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, May 16, 1998",
+  "id": "7344",
+  "name": "1998 Silver State 50 Miler",
+  "results": [
+    {
+      "age": 37,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "James",
+      "formattime": "8:18:57",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Nelson",
+      "participant_id": 3405,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 81.39,
+      "state": "",
+      "status": 1,
+      "time": "29937000"
+    },
+    {
+      "age": 38,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Jack",
+      "formattime": "8:50:37",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Powell",
+      "participant_id": 9862,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 91.07,
+      "state": "",
+      "status": 1,
+      "time": "31837000"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Oct 11, 2014",
+  "id": "28281",
+  "name": "2014 Euchre Bar Massacre 25 Miler",
+  "results": [
+    {
+      "age": 39,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "Truckee",
+      "drilldown": 0,
+      "firstname": "Joel",
+      "formattime": "15:28:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Tebbutt",
+      "participant_id": 659452,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 81.87,
+      "state": "CA",
+      "status": 1,
+      "time": "55680000"
+    }
+  ]
+}

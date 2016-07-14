@@ -1,0 +1,29 @@
+{
+  "date": "Monday, May 9, 1988",
+  "id": "7195",
+  "name": "1988 Quicksilver 50K",
+  "results": [
+    {
+      "age": 30,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Dave",
+      "formattime": "6:20:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Combs",
+      "participant_id": 17200,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 57.97,
+      "state": "",
+      "status": 1,
+      "time": "22800000"
+    }
+  ]
+}

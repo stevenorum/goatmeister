@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Nov 5, 2005",
+  "id": "12578",
+  "name": "2005 Just Another Mad Dog 50 Miler",
+  "results": [
+    {
+      "age": 38,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Keith",
+      "formattime": "6:54:10",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Rieger",
+      "participant_id": 18241,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 82.19,
+      "state": "",
+      "status": 1,
+      "time": "24850000"
+    }
+  ]
+}

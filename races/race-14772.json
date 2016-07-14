@@ -1,0 +1,29 @@
+{
+  "date": "October 22 - 23, 2011",
+  "id": "14772",
+  "name": "2011 Ghost Train Rail Trail Races 30 Miler",
+  "results": [
+    {
+      "age": 34,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "West Brookfield",
+      "drilldown": 0,
+      "firstname": "Mark",
+      "formattime": "4:29:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Swistak",
+      "participant_id": 239813,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 85.68,
+      "state": "MA",
+      "status": 1,
+      "time": "16140000"
+    }
+  ]
+}

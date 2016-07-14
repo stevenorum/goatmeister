@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Mar 29, 2014",
+  "id": "27975",
+  "name": "2014 The Barkley Marathons 100 Miler",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Jared",
+      "formattime": "57:50:20",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Campbell",
+      "participant_id": 3521,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 85.53,
+      "state": "UT",
+      "status": 1,
+      "time": "208220000"
+    }
+  ]
+}

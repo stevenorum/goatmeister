@@ -1,0 +1,51 @@
+{
+  "date": "Friday, Apr 25, 1997",
+  "id": "15291",
+  "name": "1997 KUS 6hrs",
+  "results": [
+    {
+      "age": 45,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "Wichita",
+      "drilldown": 0,
+      "firstname": "Steve",
+      "formattime": "30.02",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Stroot",
+      "participant_id": 335786,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 100.0,
+      "state": "KS",
+      "status": 1,
+      "time": "30.02"
+    },
+    {
+      "age": 35,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "Mayetta",
+      "drilldown": 0,
+      "firstname": "Greg",
+      "formattime": "23.7",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Howell",
+      "participant_id": 335787,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 78.95,
+      "state": "KS",
+      "status": 1,
+      "time": "23.7"
+    }
+  ]
+}

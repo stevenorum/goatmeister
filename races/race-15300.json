@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Jan 15, 2011",
+  "id": "15300",
+  "name": "2011 PF Chang Dean Karnazes 50K 50K",
+  "results": [
+    {
+      "age": 42,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "Phoenix",
+      "drilldown": 0,
+      "firstname": "Joe",
+      "formattime": "4:33:37",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Galope",
+      "participant_id": 107673,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 76.42,
+      "state": "AZ",
+      "status": 1,
+      "time": "16417000"
+    },
+    {
+      "age": 48,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "Sahuarta",
+      "drilldown": 0,
+      "firstname": "Amy",
+      "formattime": "5:04:01",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Dodson",
+      "participant_id": 9696,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 78.2,
+      "state": "AZ",
+      "status": 1,
+      "time": "18241000"
+    }
+  ]
+}

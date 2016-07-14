@@ -1,0 +1,29 @@
+{
+  "date": "October 22 - 23, 2011",
+  "id": "14771",
+  "name": "2011 Ghost Train Rail Trail Races 45 Miler",
+  "results": [
+    {
+      "age": 44,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "Montreal",
+      "drilldown": 0,
+      "firstname": "Patrick",
+      "formattime": "9:23:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Houde",
+      "participant_id": 28112,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 64.24,
+      "state": "QC",
+      "status": 1,
+      "time": "33780000"
+    }
+  ]
+}

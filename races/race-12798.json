@@ -1,0 +1,51 @@
+{
+  "date": "December 29 - January 1, 1992",
+  "id": "12798",
+  "name": "1991 Across the Years 72hrs",
+  "results": [
+    {
+      "age": 57,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Harold",
+      "formattime": "123.528",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Sieglaff",
+      "participant_id": 301833,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 52.3,
+      "state": "",
+      "status": 1,
+      "time": "123.528"
+    },
+    {
+      "age": 76,
+      "age_rank": 0,
+      "agegroup": "70+",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Edson",
+      "formattime": "81.275",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Sower",
+      "participant_id": 85811,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 66.84,
+      "state": "",
+      "status": 1,
+      "time": "81.275"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "December 29 - January 1, 1993",
+  "id": "12800",
+  "name": "1992 Across the Years 72hrs",
+  "results": [
+    {
+      "age": 57,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Bodo",
+      "formattime": "151.863",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Rathsberg",
+      "participant_id": 303250,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 100.0,
+      "state": "",
+      "status": 1,
+      "time": "151.863"
+    },
+    {
+      "age": 58,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Harold",
+      "formattime": "124.274",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Sieglaff",
+      "participant_id": 301833,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 52.3,
+      "state": "",
+      "status": 1,
+      "time": "124.274"
+    }
+  ]
+}

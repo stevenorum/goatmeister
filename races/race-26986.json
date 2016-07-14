@@ -1,0 +1,29 @@
+{
+  "date": "Friday, Dec 27, 2013",
+  "id": "26986",
+  "name": "2013 Tuscobia Winter Ultra 150M Ski",
+  "results": [
+    {
+      "age": 58,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "194",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Mark",
+      "formattime": "37:34:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Scotch",
+      "participant_id": 723026,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 82.49,
+      "state": "",
+      "status": 1,
+      "time": "135240000"
+    }
+  ]
+}

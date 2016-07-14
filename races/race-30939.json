@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Apr 18, 2015",
+  "id": "30939",
+  "name": "2015 C.U.R.E Ultra's 100K",
+  "results": [
+    {
+      "age": 30,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "42",
+      "city": "Denver",
+      "drilldown": 0,
+      "firstname": "Courtney",
+      "formattime": "10:16:11",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Dauwalter",
+      "participant_id": 243781,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 92.87,
+      "state": "CO",
+      "status": 1,
+      "time": "36971497"
+    },
+    {
+      "age": 36,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "43",
+      "city": "Denver",
+      "drilldown": 0,
+      "firstname": "Rochelle",
+      "formattime": "0",
+      "gender": "F",
+      "gender_place": 0,
+      "lastname": "Garnanez",
+      "participant_id": 89171,
+      "photo_count": 0,
+      "place": 0,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 83.98,
+      "state": "CO",
+      "status": 3,
+      "time": "0"
+    }
+  ]
+}

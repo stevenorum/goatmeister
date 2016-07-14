@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, May 5, 2012",
+  "id": "16948",
+  "name": "2012 Wild Wild West Marathon And Ultra 10 Miler",
+  "results": [
+    {
+      "age": 37,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "Banning",
+      "drilldown": 0,
+      "firstname": "Aide",
+      "formattime": "1:52:00",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Villalobos",
+      "participant_id": 400734,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 80.5,
+      "state": "",
+      "status": 1,
+      "time": "6720000"
+    }
+  ]
+}

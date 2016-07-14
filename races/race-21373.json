@@ -1,0 +1,29 @@
+{
+  "date": "",
+  "id": "21373",
+  "name": "2013 Coyote Springs Trail Runs 50 Miler",
+  "results": [
+    {
+      "age": 57,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "758",
+      "city": "Las Vegas",
+      "drilldown": 0,
+      "firstname": "David",
+      "formattime": "14:08:47",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Campbell",
+      "participant_id": 5716,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 64.61,
+      "state": "NV",
+      "status": 1,
+      "time": "50927000"
+    }
+  ]
+}

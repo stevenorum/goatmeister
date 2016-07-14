@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Apr 22, 2006",
+  "id": "11717",
+  "name": "2006 Jack Bristol Lake Waramaug Ultra Races 100K",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "191",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Michael",
+      "formattime": "12:09:36",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Lo Presti",
+      "participant_id": 217011,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 80.77,
+      "state": "CT",
+      "status": 1,
+      "time": "43776000"
+    }
+  ]
+}

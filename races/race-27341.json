@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, May 3, 2014",
+  "id": "27341",
+  "name": "2014 Nirvana Ultra Big Bear 100K",
+  "results": [
+    {
+      "age": 29,
+      "age_rank": 0,
+      "agegroup": "20-29",
+      "bib": "",
+      "city": "Lynwood",
+      "drilldown": 0,
+      "firstname": "Hugo",
+      "formattime": "14:04:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Tapia",
+      "participant_id": 706941,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 81.6,
+      "state": "CA",
+      "status": 1,
+      "time": "50640000"
+    }
+  ]
+}

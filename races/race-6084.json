@@ -1,0 +1,51 @@
+{
+  "date": "Wednesday, Sep 10, 2008",
+  "id": "6084",
+  "name": "2008 Turkey Swamp 50K",
+  "results": [
+    {
+      "age": 30,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "425",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Dave",
+      "formattime": "3:25:03",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "James",
+      "participant_id": 3089,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 85.48,
+      "state": "",
+      "status": 1,
+      "time": "12303000"
+    },
+    {
+      "age": 28,
+      "age_rank": 0,
+      "agegroup": "20-29",
+      "bib": "409",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Bill",
+      "formattime": "3:33:34",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Cuthbert",
+      "participant_id": 22736,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 87.89,
+      "state": "",
+      "status": 1,
+      "time": "12814000"
+    }
+  ]
+}

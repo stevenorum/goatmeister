@@ -1,0 +1,29 @@
+{
+  "date": "Sunday, Aug 4, 1974",
+  "id": "6707",
+  "name": "1974 Western States 100 Miler",
+  "results": [
+    {
+      "age": 26,
+      "age_rank": 0,
+      "agegroup": "20-29",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Gordy",
+      "formattime": "23:42:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Ainsleigh",
+      "participant_id": 931117,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 61.71,
+      "state": "",
+      "status": 1,
+      "time": "85320000"
+    }
+  ]
+}

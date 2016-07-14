@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Dec 18, 2010",
+  "id": "26879",
+  "name": "2010 Pullman Winter Ultras - Jan 50K",
+  "results": [
+    {
+      "age": 33,
+      "age_rank": 0,
+      "agegroup": "30-39",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Scott",
+      "formattime": "4:45:26",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "McMurtrey",
+      "participant_id": 9098,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 80.89,
+      "state": "",
+      "status": 1,
+      "time": "17126000"
+    }
+  ]
+}

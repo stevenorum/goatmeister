@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Dec 19, 2015",
+  "id": "36597",
+  "name": "2015 Houston Running Festival 100K",
+  "results": [
+    {
+      "age": 40,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "4",
+      "city": "Austin",
+      "drilldown": 0,
+      "firstname": "Christine",
+      "formattime": "18:54:58",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Jones",
+      "participant_id": 975393,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 76.8,
+      "state": "TX",
+      "status": 1,
+      "time": "68098000"
+    },
+    {
+      "age": 45,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "10",
+      "city": "Houston",
+      "drilldown": 0,
+      "firstname": "Tara",
+      "formattime": "25:23:01",
+      "gender": "F",
+      "gender_place": 2,
+      "lastname": "Woodard",
+      "participant_id": 316124,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 49.25,
+      "state": "TX",
+      "status": 1,
+      "time": "91381000"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Apr 1, 2000",
+  "id": "12398",
+  "name": "2000 The Barkley Marathons 80 Miler",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Blake",
+      "formattime": "47:53:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Wood",
+      "participant_id": 22548,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 81.01,
+      "state": "",
+      "status": 1,
+      "time": "172380000"
+    }
+  ]
+}

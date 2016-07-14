@@ -1,0 +1,51 @@
+{
+  "date": "",
+  "id": "15087",
+  "name": "2003 The Crystal 50K",
+  "results": [
+    {
+      "age": 49,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "Calgary",
+      "drilldown": 0,
+      "firstname": "Mario",
+      "formattime": "4:19:30",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Festival",
+      "participant_id": 189637,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 82.83,
+      "state": "",
+      "status": 1,
+      "time": "15570000"
+    },
+    {
+      "age": 45,
+      "age_rank": 0,
+      "agegroup": "40-49",
+      "bib": "",
+      "city": "Sault Ste.Marie",
+      "drilldown": 0,
+      "firstname": "Dan",
+      "formattime": "4:20:17",
+      "gender": "M",
+      "gender_place": 2,
+      "lastname": "Puddister",
+      "participant_id": 333839,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 99.7,
+      "state": "",
+      "status": 1,
+      "time": "15617000"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Apr 1, 1995",
+  "id": "8320",
+  "name": "1995 The Barkley Marathons 100 Miler",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Mark",
+      "formattime": "59:28:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Williams",
+      "participant_id": 114961,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 77.37,
+      "state": "",
+      "status": 1,
+      "time": "214080000"
+    }
+  ]
+}

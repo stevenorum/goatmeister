@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Dec 20, 2014",
+  "id": "30940",
+  "name": "2014 Celtic Winter Classic 24 Hour Run 6hrs",
+  "results": [
+    {
+      "age": 53,
+      "age_rank": 0,
+      "agegroup": "50-59",
+      "bib": "",
+      "city": "Bakersfield",
+      "drilldown": 0,
+      "firstname": "Phil",
+      "formattime": "32",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Johnson",
+      "participant_id": 7067,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 66.96,
+      "state": "CA",
+      "status": 1,
+      "time": "32"
+    }
+  ]
+}

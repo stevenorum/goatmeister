@@ -1,0 +1,51 @@
+{
+  "date": "Friday, Jan 8, 2016",
+  "id": "33900",
+  "name": "2016 Tuscobia Winter Ultra 150M Ski",
+  "results": [
+    {
+      "age": 27,
+      "age_rank": 0,
+      "agegroup": "20-29",
+      "bib": "",
+      "city": "Fairbanks",
+      "drilldown": 0,
+      "firstname": "Dan",
+      "formattime": "54:09:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Powers",
+      "participant_id": 480270,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 91.29,
+      "state": "AK",
+      "status": 1,
+      "time": "194940000"
+    },
+    {
+      "age": 60,
+      "age_rank": 0,
+      "agegroup": "60-69",
+      "bib": "",
+      "city": "Plover",
+      "drilldown": 0,
+      "firstname": "Mark",
+      "formattime": "0",
+      "gender": "M",
+      "gender_place": 0,
+      "lastname": "Scotch",
+      "participant_id": 723026,
+      "photo_count": 0,
+      "place": 0,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 82.49,
+      "state": "WI",
+      "status": 2,
+      "time": "0"
+    }
+  ]
+}

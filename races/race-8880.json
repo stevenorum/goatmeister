@@ -1,0 +1,29 @@
+{
+  "date": "Saturday, Dec 1, 2007",
+  "id": "8880",
+  "name": "2007 Antarctic Ice Marathon 1/2 Marathon",
+  "results": [
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Bertrand",
+      "formattime": "4:24:02",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Mahe",
+      "participant_id": 129765,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 100.0,
+      "state": "",
+      "status": 1,
+      "time": "15842000"
+    }
+  ]
+}

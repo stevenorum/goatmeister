@@ -1,0 +1,51 @@
+{
+  "date": "Saturday, Jan 12, 2013",
+  "id": "26899",
+  "name": "2013 Pullman Winter Ultras - Jan 37.5K",
+  "results": [
+    {
+      "age": 72,
+      "age_rank": 0,
+      "agegroup": "70+",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Larry",
+      "formattime": "4:02:00",
+      "gender": "M",
+      "gender_place": 1,
+      "lastname": "Carroll",
+      "participant_id": 6659,
+      "photo_count": 0,
+      "place": 1,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 73.07,
+      "state": "",
+      "status": 1,
+      "time": "14520000"
+    },
+    {
+      "age": 0,
+      "age_rank": 0,
+      "agegroup": "",
+      "bib": "",
+      "city": "",
+      "drilldown": 0,
+      "firstname": "Abby",
+      "formattime": "4:02:00",
+      "gender": "F",
+      "gender_place": 1,
+      "lastname": "Carroll",
+      "participant_id": 720227,
+      "photo_count": 0,
+      "place": 2,
+      "prior_count": 0,
+      "race_count": 0,
+      "runner_rank": 91.59,
+      "state": "",
+      "status": 1,
+      "time": "14520000"
+    }
+  ]
+}
